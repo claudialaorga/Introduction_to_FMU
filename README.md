@@ -17,7 +17,7 @@ Remember to replace 'path_to_your_repository.py' with your actual .py file and '
 
 **How to import a .fmu file in FMPy?**
 
-Just use the FMPy___.py file, but remember to change the path in the code. 
+Just use the FMPy___.py file, but remember to change the path in the code. Also, with the changes in the integrator just use the FMPy___microstep.py file and change the path of the .fmu files with the .fmu files from the change of integator directory. 
 
 I hope this work proves very useful to you and streamlines your use of FMI. Remember, it is a Final Degree Project, and despite being researched with the utmost rigor, there may be errors in the code at some point. Please do not hesitate to let me know if you detect any, so I can update the information as soon as possible. 
 
